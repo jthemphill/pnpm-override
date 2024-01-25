@@ -12,11 +12,11 @@
   },
   "pnpm": {
     "overrides": {
-      "@react-aria/interactions@^3.5.1": "3.5.1"
+      "@react-aria/interactions@3.5.1": "3.5.1"
     }
   },
   "resolutions": {
-    "@react-aria/interactions@^3.5.1": "3.5.1"
+    "@react-aria/interactions@3.5.1": "3.5.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

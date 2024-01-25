@@ -114,7 +114,7 @@
     "@react-types/shared" "^3.22.0"
     "@swc/helpers" "^0.5.0"
 
-"@react-aria/interactions@3.5.1", "@react-aria/interactions@^3.5.1@3.5.1":
+"@react-aria/interactions@3.5.1":
   version "3.5.1"
   resolved "https://registry.yarnpkg.com/@react-aria/interactions/-/interactions-3.5.1.tgz#4dc94af662f718ad985fad31440b11cef90109db"
   integrity sha512-NLzYmHljXEqiUqr+PqszwFchGWUQc+kXWMI8N8vBra7HbPAej9so2iPU6hvn1k/3+b02kjt/2mqTrlN1T+HeGw==
@@ -123,7 +123,7 @@
     "@react-aria/utils" "^3.8.2"
     "@react-types/shared" "^3.8.0"
 
-"@react-aria/interactions@^3.11.0", "@react-aria/interactions@^3.20.1", "@react-aria/interactions@^3.5.1":
+"@react-aria/interactions@3.5.1@3.5.1", "@react-aria/interactions@^3.11.0", "@react-aria/interactions@^3.20.1", "@react-aria/interactions@^3.5.1":
   version "3.20.1"
   resolved "https://registry.yarnpkg.com/@react-aria/interactions/-/interactions-3.20.1.tgz#397f6724935024e7d3f4f38e8fae07ee37da868d"
   integrity sha512-PLNBr87+SzRhe9PvvF9qvzYeP4ofTwfKSorwmO+hjr3qoczrSXf4LRQlb27wB6hF10C7ZE/XVbUI1lj4QQrZ/g==
